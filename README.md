@@ -8,7 +8,7 @@
 - [Баг-репорт 1](./SD-BUG-01.xlsx) 
 - [Баг-репорт 2](./SD-BUG-02.xlsx) 
 - [Баг-репорт 3](./SD-BUG-03.xlsx)
-- [Коллекция Postman](./JSONPlaceholder API Tests.postman_collection(1).json) 
+- [Коллекция Postman](./JSONPlaceholder API Tests.postman_collection (1).json) 
 - [SQL-запросы](./queries.sql)
 
 ## Контакты:
